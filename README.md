@@ -1,16 +1,4 @@
-# project_gsg_assignment_two
+This is the submition of the second assignment at the GSG flutter bootcamp
+This is just a prototype UI with NO functionality but to showcase some design with simple navigations 
 
-The second assignment at GSG
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[gsg_assignment2.webm](https://github.com/AhmedZaeem/project_gsg_assignment_two/assets/91721920/bb09b885-d0c5-45cf-ae9d-4bced9a7e5d4)
